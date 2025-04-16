@@ -7,13 +7,11 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d dist"
+		"start": "node server.js"
 
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/legriffalo/boilerplate-npm.git"
 	}
 }
